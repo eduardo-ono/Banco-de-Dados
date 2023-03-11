@@ -4,7 +4,7 @@ Prof. Eduardo Ono
 
 <br>
 
-### Banco de Dados Relacionais
+### Banco de Dados Relacional
 <br>
 
 * [Programming with Mosh] [MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA) (YouTube, 3:10:18)
@@ -53,7 +53,7 @@ Prof. Eduardo Ono
 
 <br>
 
-### Banco de Dados Não-Relacionais
+### Banco de Dados Não-Relacional
 <br>
 
 ## Bibliografia
